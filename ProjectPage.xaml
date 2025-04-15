@@ -1,0 +1,17 @@
+﻿<Page x:Class="ProjectManagementSystem.ProjectPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Projects">
+
+    <StackPanel Margin="20">
+        <TextBlock Text="Project Management" FontSize="24" FontWeight="Bold" Margin="0,0,0,10"/>
+        <TextBox x:Name="NameInput" Text="Project Name" Margin="0,5"/>
+        <TextBox x:Name="DescriptionInput" Text="Description" Margin="0,5"/>
+        <StackPanel Orientation="Horizontal" Margin="0,10">
+            <Button Content="Add" Click="AddProject_Click" Margin="5"/>
+            <Button Content="Update" Click="UpdateProject_Click" Margin="5"/>
+            <Button Content="Delete" Click="DeleteProject_Click" Margin="5"/>
+        </StackPanel>
+        <ListBox x:Name="ProjectsListBox" Height="200" SelectionChanged="ProjectsListBox_SelectionChanged"/>
+    </StackPanel>
+</Page>

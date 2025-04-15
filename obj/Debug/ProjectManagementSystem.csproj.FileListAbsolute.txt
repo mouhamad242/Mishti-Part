@@ -1,0 +1,16 @@
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe.config
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectPage.baml
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectPage.g.cs
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\App.g.cs
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem_MarkupCompile.cache
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.g.resources
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\mhmdj\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
